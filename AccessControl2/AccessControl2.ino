@@ -3,7 +3,7 @@
    Example sketch/program showing An Arduino Door Access Control featuring RFID, EEPROM, Relay
    --------------------------------------------------------------------------------------------------------------------
    This is a MFRC522 library example; for further details and other examples see: https://github.com/miguelbalboa/rfid
-
+   Modified by BlackWolf
    This example showing a complete Door Access Control System
 
   Simple Work Flow (not limited to) :
